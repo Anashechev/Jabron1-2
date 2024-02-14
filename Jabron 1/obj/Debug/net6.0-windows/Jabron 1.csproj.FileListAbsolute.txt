@@ -1,0 +1,19 @@
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\App.g.cs
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\Jabron 1_MarkupCompile.cache
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\Jabron 1.g.resources
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\Jabron 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\Jabron 1.AssemblyInfoInputs.cache
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\Jabron 1.AssemblyInfo.cs
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\Jabron 1.csproj.CoreCompileInputs.cache
+D:\Dangeon\Jabron 1\Jabron 1\bin\Debug\net6.0-windows\Jabron 1.exe
+D:\Dangeon\Jabron 1\Jabron 1\bin\Debug\net6.0-windows\Jabron 1.deps.json
+D:\Dangeon\Jabron 1\Jabron 1\bin\Debug\net6.0-windows\Jabron 1.runtimeconfig.json
+D:\Dangeon\Jabron 1\Jabron 1\bin\Debug\net6.0-windows\Jabron 1.dll
+D:\Dangeon\Jabron 1\Jabron 1\bin\Debug\net6.0-windows\Jabron 1.pdb
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\Jabron 1.dll
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\refint\Jabron 1.dll
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\Jabron 1.pdb
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\Jabron 1.genruntimeconfig.cache
+D:\Dangeon\Jabron 1\Jabron 1\obj\Debug\net6.0-windows\ref\Jabron 1.dll
